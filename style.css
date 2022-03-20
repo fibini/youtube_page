@@ -1,0 +1,18 @@
+.navi{
+    background-color: black;
+    overflow: hidden;
+
+}
+.navi a {
+    float: left;
+    color: white;
+    text-align: center; padding: 14px 16px;
+    font-size: 17px;
+}
+.navi a:hover {
+    background-color: gray;
+}
+.navi a.active {
+    background-color: red;
+    color: blue;
+}
