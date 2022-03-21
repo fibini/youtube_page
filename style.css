@@ -20,10 +20,9 @@
 .side {
     height: 100%;
     width:200px ;
-    position: fixed;
+    position:absolute;
     z-index: 1;
     right: 0;
-    overflow: hidden;
     padding-top: 24px;
     padding-right: 24px;
     
