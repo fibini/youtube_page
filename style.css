@@ -1,6 +1,7 @@
 .navi{
     background-color: black;
     overflow: hidden;
+    margin-bottom: 25px;
 
 }
 .navi a {
@@ -27,4 +28,11 @@
     padding-right: 24px;
     
 
+}
+.pics {
+    height: 94px;
+    width: 168px;
+}
+.vid {
+    margin-left: 10px;
 }
